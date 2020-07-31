@@ -1,0 +1,33 @@
+.textP{
+
+    font-size: 25px;
+}
+
+#paddingText{
+
+    padding-top: 150px;
+    padding-bottom: 150px;
+    
+}
+
+#paddingImg{
+
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#paddingLabDen{
+
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.botonLabDen{
+
+    border: 3px;
+    background-color: #ff9900;
+    color: white;
+    border-radius: 10px;
+    width: 780px;
+    height: 65px;
+}

@@ -1,0 +1,51 @@
+.inputForm{
+
+    border-right: 0;
+    border-left: 0;
+    border-top: 0;
+    border-bottom: 1px white solid;
+}
+
+.inputForm:focus{
+
+    border-right: 0;
+    border-left: 0;
+    border-top: 0;
+    border-bottom: 1px white solid;
+    box-shadow: none;
+}
+
+.estiloContainerBusPrin{
+
+    background-color: #ff9900;
+    height: 340px;
+}
+
+.textBusPrin{
+
+    color:white;
+    font-size: 70px;
+}
+
+#search{
+
+    font-size: 20px;
+    width: 1000px;
+    height: 80px;
+    background-color: #ff9900;
+}
+
+.iconSearch{
+
+    font-size: 60px;
+    color:white;
+}
+
+#estiloSearch{
+
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px white solid;
+}
+

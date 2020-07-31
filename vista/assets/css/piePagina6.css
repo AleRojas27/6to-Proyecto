@@ -1,0 +1,40 @@
+.estiloContainerPie{
+
+    background-color: gray;
+    height:340px;
+}
+
+#textBlancoPie{
+
+    color:white;
+    display: block;    
+    padding-top: 25px;
+}
+
+#textBlancoPie li{
+
+    display: block;
+}
+
+#textBlancoPie p{
+
+    font-size: 22px;
+}
+
+#iconRedes{
+
+    font-size: 30px;
+    display: inline;
+    float: left;
+    margin-right: 50px;
+    margin-top: 40px;
+}
+
+.estiloConteinerCopy{
+
+    background-color: #ff9900;
+    color: white;
+    height: 50px;
+    padding-top: 8px;
+
+}

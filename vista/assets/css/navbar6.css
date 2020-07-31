@@ -1,0 +1,39 @@
+#horizontal{
+
+    display: block;
+    float: left;
+    padding: 10px;
+}
+
+#horizontal li{
+
+    display: inline;
+    padding-left: 3px;
+    padding-right: 3px;
+    font-size: 30px;
+    margin: 0px 15px;
+
+}
+
+.colorBuscalab{
+
+    color: #ff9900;
+    font-size: 35px;
+}
+
+.colorBuscalabGris{
+
+    color: #a5a5a5;
+    font-size: 35px;
+}
+
+.buttonNav{
+
+    font-size: 22px;
+    padding-top: 22px;
+}
+
+.estiloContainerNav{
+
+    height: 90px;
+}
